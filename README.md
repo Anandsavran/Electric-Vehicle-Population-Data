@@ -1,40 +1,44 @@
-📊 Visualizations Included
+🔋 Project Title: Electric Vehicle Population Data Analysis
+📘 Project Description:
+This data science project explores and analyzes the Electric Vehicle (EV) population dataset to uncover insights into the growing adoption of EVs across regions. The dataset includes details such as vehicle types, makes, models, model years, electric range, and more.
 
-Bar Chart: Top 10 Counties by Number of Electric Vehicles Displays the counties with the highest number of EV registrations.
+The goal of the project is to identify trends, usage patterns, regional adoption rates, and correlations that can guide policymakers, manufacturers, and consumers in making data-driven decisions about electric mobility.
 
-Pie Chart: Electric Vehicle Type Distribution Illustrates the percentage share of different types of electric vehicles.
+📊 Key Objectives:
+🔍 Data Cleaning & Preprocessing: Handle missing values, standardize formats, and prepare data for analysis.
 
-Bar Chart: Top 10 Electric Vehicle Makes Highlights the most common EV manufacturers in the dataset.
+📈 Trend Analysis: Track the growth of EVs over time, by region, and by vehicle type (Battery Electric, Plug-in Hybrid).
 
-Line Chart: Electric Vehicle Registrations by Model Year Shows the trend of EV registrations over the years.
+🌍 Geographical Insights: Map the distribution of EVs across cities or states to identify high-adoption zones.
 
-Histogram: Electric Vehicle Range Distribution Analyzes the frequency distribution of electric ranges across vehicles.
+🚗 Vehicle Insights: Analyze which manufacturers and models dominate the EV market.
 
-🛠️ Tools Used Python
+⚡ Electric Range Analysis: Study the distribution of electric ranges and its correlation with model year or vehicle type.
 
-Pandas
+🧰 Tools & Technologies Used:
+Language: Python
 
-Matplotlib
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Folium
 
-Seaborn
+Platform: Jupyter Notebook / VS Code
 
-Jupyter Notebook
+Data Source: Public EV population dataset (e.g., from a transportation department or open government data portal)
 
-🔍 Insights Tesla dominates the EV market in Washington.
+📌 Sample Insights:
+📆 Majority of registered EVs are post-2017 models, showing a sharp adoption rise.
 
-EV registrations have grown rapidly in recent years.
+🚙 Tesla leads in EV registrations followed by Nissan and Chevrolet.
 
-Most EVs are concentrated in urban counties.
+🌐 Urban areas show significantly higher EV concentrations compared to rural areas.
 
-Electric ranges vary significantly, with a peak around mid-range vehicles.
+🔌 Vehicles with higher electric ranges tend to be more recent and predominantly from premium manufacturers.
 
-🔮 Future Scope Integrate real-time EV data via APIs.
+🎯 Learning Outcomes:
+Mastery of real-world data cleaning and wrangling.
 
-Apply machine learning models for predictive analysis.
+Experience with exploratory data analysis (EDA) and data visualization.
 
-Use geospatial and weather data for deeper insights.
+Understanding of electric vehicle trends and the EV ecosystem.
 
-Develop interactive dashboards for public or policy use.
-
-📄 License This project is for educational purposes. Dataset used is publicly available from data.gov.
+Skills in drawing actionable insights from raw data using Python.
 Link data.wa.gov = https://catalog.data.gov/dataset/electric-vehicle-population-data
