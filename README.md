@@ -8,7 +8,7 @@ The goal of the project is to identify trends, usage patterns, regional adoption
 🔍 Data Cleaning & Preprocessing: Handle missing values, standardize formats, and prepare data for analysis.
 
 📈 Trend Analysis: Track the growth of EVs over time, by region, and by vehicle type (Battery Electric, Plug-in Hybrid).
-
+  
 🌍 Geographical Insights: Map the distribution of EVs across cities or states to identify high-adoption zones. 
 
 🚗 Vehicle Insights: Analyze which manufacturers and models dominate the EV market.
