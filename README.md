@@ -41,4 +41,4 @@ Experience with exploratory data analysis (EDA) and data visualization.
 Understanding of electric vehicle trends and the EV ecosystem.
 
 Skills in drawing actionable insights from raw data using Python.
-Link data.wa.gov = https://catalog.data.gov/dataset/electric-vehicle-population-data
+Link data.wa.gov = https://catalog.data.gov/dataset/electric-vehicle-population-data 
